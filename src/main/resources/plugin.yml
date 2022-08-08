@@ -1,0 +1,6 @@
+name: gPVP
+version: '${project.version}'
+main: me.gracu.gpvp.GPVP
+api-version: 1.19
+authors: [ Gracu ]
+description: Core for pvp server
